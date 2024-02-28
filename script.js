@@ -1,0 +1,10 @@
+let heading = document.getElementById("head");
+console.log(heading);
+heading.style.color = "blue";
+heading.style.background = "yellow";
+heading.style.margin = "20px";
+heading.style.padding = "10px";
+heading.style.fontSize = "18px";
+heading.style.fontWeight = "bold";
+heading.style.height = "200px";
+heading.style.width = "300px";
